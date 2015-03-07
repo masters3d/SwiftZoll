@@ -2,16 +2,12 @@
 Library to deal with inches and feet in swift
 
 http://www.convertunits.com/from/zoll/to/inches
-Zoll is very similar an Imperial Inch. 
-
-In NSDate the unit of time is the second. 
-
-I want to redefine a zoll to mean 1/64th of an Inch. 
+Zoll is german for a mesurement that is very similar the imperial Inch. 
 
 TODO:
-- [ ] Struct to to hold Zoll values
+- [ ] Struct named Zoll to to hold inch values with 1/64th pressision
 - [ ] Init 1' 2"
 - [ ] Init  1' 2" 1/64
-- [ ] Value to String 
+- [ ] Value to String
 
 
