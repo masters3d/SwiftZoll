@@ -9,5 +9,6 @@ TODO:
 - [ ] Init 1' 2"
 - [ ] Init  1' 2" 1/64
 - [ ] Value to String
-
+- [ ] add values and multiply
+- [ ] 
 
